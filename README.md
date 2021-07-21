@@ -24,6 +24,7 @@ de quantas vezes já assistiram a cada um deles.
  
 ## Como usar
  
+ -![1-Nesta primeira foto nós temos a barra de pesquisa que irá ser usada para pesquisar os filmes, o usuário irá escrever o nome do filem que ele deseja e o filme irá aparecer logo abaixo da barra de pesquisa]
 (https://user-images.githubusercontent.com/74620116/126541026-4df32f1d-e919-4284-ae52-131fc92a1b9b.png)
 
 ![2-Nesta segunda foto nós termos um exemplo de como o filme irá aparecer para o usuário quando ele digitar o nome do filme que ele deseja assisitr, nós temos o poster do filme com as informações logo abaixo ](https://user-images.githubusercontent.com/74620116/126541318-6e154582-f979-4be9-b756-1eb112127bec.png)
